@@ -1,2 +1,2 @@
-# Languge translator with simple Json 
+# Language translator with simple Json 
 
